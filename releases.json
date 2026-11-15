@@ -9,13 +9,13 @@
     "architecture": "x64",
     "sizeMb": 118,
     "selfContained": true,
-    "sha256": "990CDD91524B1A638FE962BCF4F576B7CF65BC0599C14FDDFB712BF49BA84F2C",
+    "sha256": "D0EEFAB8505E9BC660FFD8B5E72A613DC39793B72A82E14705FB5DF743EEF16E",
     "changelog": [
       "Fixed MetricCardControl WinForms GDI+ font disposal crash (Parameter is not valid)",
+      "Corrected license tier display: Standard Lifetime vs Monthly/Yearly Pro",
       "Smart auto-detection for custom Medal clips paths (including C:\\Medal\\Clips)",
       "Theme typography lifecycle protection preventing shared handle disposal",
-      "SellHidden dynamic licensing sync and instant Client Zone self-service",
-      "Hardware ID (HWID) and BIOS UUID dual-slot cryptographic binding"
+      "Client Zone account isolation ensuring personal license & invoice privacy"
     ]
   }
 }
