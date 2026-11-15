@@ -1,0 +1,20 @@
+{
+  "latest": {
+    "version": "1.0.2",
+    "name": "ClipSync Cloud v1.0.2 (Windows Standalone)",
+    "releaseDate": "2026-11-15",
+    "downloadUrl": "https://github.com/TheMich157/clipsync-releases/releases/latest/download/ClipSyncCloud.exe",
+    "githubReleaseUrl": "https://github.com/TheMich157/clipsync-releases/releases/tag/v1.0.2",
+    "minOsVersion": "10.0.19041",
+    "architecture": "x64",
+    "sizeMb": 118,
+    "selfContained": true,
+    "changelog": [
+      "SellHidden unified dynamic key verification and instant store activation",
+      "Discord bot notification sync and Client Zone device self-service unbinding",
+      "Hardware ID (HWID) and BIOS UUID dual-binding license verification",
+      "Medal.tv auto-detection and Google Drive Game/Date folder organization",
+      "Verified local disk cleanup engine with remote byte-for-byte confirmation"
+    ]
+  }
+}
