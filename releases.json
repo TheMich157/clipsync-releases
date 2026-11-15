@@ -1,20 +1,21 @@
 {
   "latest": {
-    "version": "1.0.2",
-    "name": "ClipSync Cloud v1.0.2 (Windows Standalone)",
+    "version": "1.0.3",
+    "name": "ClipSync Cloud v1.0.3 (Windows Standalone)",
     "releaseDate": "2026-11-15",
     "downloadUrl": "https://github.com/TheMich157/clipsync-releases/releases/latest/download/ClipSyncCloud.exe",
-    "githubReleaseUrl": "https://github.com/TheMich157/clipsync-releases/releases/tag/v1.0.2",
+    "githubReleaseUrl": "https://github.com/TheMich157/clipsync-releases/releases/tag/v1.0.3",
     "minOsVersion": "10.0.19041",
     "architecture": "x64",
     "sizeMb": 118,
     "selfContained": true,
+    "sha256": "990CDD91524B1A638FE962BCF4F576B7CF65BC0599C14FDDFB712BF49BA84F2C",
     "changelog": [
-      "SellHidden unified dynamic key verification and instant store activation",
-      "Discord bot notification sync and Client Zone device self-service unbinding",
-      "Hardware ID (HWID) and BIOS UUID dual-binding license verification",
-      "Medal.tv auto-detection and Google Drive Game/Date folder organization",
-      "Verified local disk cleanup engine with remote byte-for-byte confirmation"
+      "Fixed MetricCardControl WinForms GDI+ font disposal crash (Parameter is not valid)",
+      "Smart auto-detection for custom Medal clips paths (including C:\\Medal\\Clips)",
+      "Theme typography lifecycle protection preventing shared handle disposal",
+      "SellHidden dynamic licensing sync and instant Client Zone self-service",
+      "Hardware ID (HWID) and BIOS UUID dual-slot cryptographic binding"
     ]
   }
 }
